@@ -1,1 +1,2 @@
 new file t4 created and added
+Clone line to t4
